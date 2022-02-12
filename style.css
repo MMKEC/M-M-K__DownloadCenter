@@ -399,7 +399,7 @@ a {
 }
 
 .installer label input:checked ~ span:after {
-  content: "Ya puedes cerrar esta ventana (No pestalla)";
+  content: "Cierra esta ventana";
   animation: downloadState 3s;
 }
 
